@@ -9,7 +9,7 @@ body {
     
     background-image: linear-gradient(90deg, rgb(37 171 32), rgb(12 112 169));
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #ffffff;
+    color: #ffffff !important;
     
 }
 
@@ -30,7 +30,7 @@ h3 {
     align-items: center;
     padding: 10px;
     border-radius: 11px;
-    background-color: #b2a14f59;
+    background-color: #b2a14f59 !important;
 }
 
 .verh {
@@ -68,7 +68,7 @@ dl {
     padding: 10px;
     font-weight: 500;
     font-size: 25px;
-    border-bottom: 3px solid #b49e4e;
+    border-bottom: 3px solid #b49e4e !important;
     border-radius: 22px;
    
 
@@ -87,9 +87,9 @@ dl {
 
 
 dd {
-    border: 2px solid #5b5b1c;
-    color: #5b5b1c;
-    background-color: #fffefe;
+    border: 2px solid #5b5b1c !important;
+    color: #5b5b1c !important;
+    background-color: #fffefe !important;
     font-size: 23px;
     border-radius: 17px;
     padding: 8px 12px 10px;
@@ -128,7 +128,7 @@ td {
     margin: 0px;
     padding: 10px;
 
-    background-color: #6D4C41;
+    background-color: #6D4C41 !important;
 
 
     border-color: black;
@@ -189,6 +189,7 @@ td {
         padding: 6px 5px 8px;
     }
 }
+
 
 
 
